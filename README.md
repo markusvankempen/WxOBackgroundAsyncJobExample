@@ -223,4 +223,4 @@ This repository contains a **fully working, end-to-end example** demonstrating:
 No bug too small, no syntax too weird.
 📧 mvankempen@ca.ibm.com  
 📧 markus.van.kempen@gmail.com  
-📱 +1-416-436-6235  
+
